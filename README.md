@@ -7,3 +7,11 @@ Custom Configuration for my K2's<br>
         sh "/mnt/UDISK/root/K2-Config/scripts/sethostname.sh
   </code>
 </p>
+<br>
+<br>
+
+Update:  <br>
+<code>
+cd /mnt/UDISK/root/K2-Config
+git pull
+<code>
